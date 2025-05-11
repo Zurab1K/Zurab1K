@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Zurabi
+# 👋 Hi, I'm Zurabi!
 
 ## 👨‍💻 About Me
 I'm an undergraduate student at Stony Brook University pursuing a Bachelor of Science in Computer Science and Economics. I'm passionate about building impactful solutions and exploring how technology can address real-world challenges.
