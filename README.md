@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Hi, I'm Zurabi
 
-<!--
-**Zurab1K/Zurab1K** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 About Me
+I'm a Computer Science and Economics double major at Stony Brook University, driven by a passion for building impactful solutions and exploring how technology intersects with math, data, and policy. 
 
-Here are some ideas to get you started:
+## 🛠 Skills
+- **Programming Languages**: Java, Python, OCaml, HTML, CSS, JavaScript  
+- **Interests**: Web development, data analysis, AI/ML
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Education
+**Bachelor of Science** in Computer Science and Economics  
+*Stony Brook University*
+
+## 🌐 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/zurabi-kochiashvili/)  
+
