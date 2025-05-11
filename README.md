@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Zurabi
 
 ## 👨‍💻 About Me
-I'm a Computer Science and Economics double major at Stony Brook University, driven by a passion for building impactful solutions and exploring how technology intersects with math, data, and policy. 
+I'm an undergraduate student at Stony Brook University pursuing a Bachelor of Science in Computer Science and Economics. I'm passionate about building impactful solutions and exploring how technology can address real-world challenges.
 
 ## 🛠 Skills
 - **Programming Languages**: Java, Python, OCaml, HTML, CSS, JavaScript  
