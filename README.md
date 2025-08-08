@@ -1,16 +1,25 @@
-# 👋 Hi, I'm Zurabi!
+# 👋 Hey there, I'm Zurabi!
 
-## 👨‍💻 About Me
-I'm an undergraduate student at Stony Brook University pursuing a Bachelor of Science in Computer Science and Economics. I'm passionate about building impactful solutions and exploring how technology can address real-world challenges.
+I’m a sophomore at Stony Brook University pursuing a B.S. degree in Computer Science with a second major in Economics. I’m especially interested in AI, Machine Learning, and Finance, and I’m excited to explore new opportunities to expand my skills and gain more experience.
 
-## 🛠 Skills
-- **Programming Languages**: Java, Python, OCaml, HTML, CSS, JavaScript  
-- **Interests**: Web development, data analysis, AI/ML
+---
 
-## 📚 Education
-**Bachelor of Science** in Computer Science and Economics  
-*Stony Brook University*
+### 🛠️ What I'm working with
 
-## 🌐 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/zurabi-kochiashvili/)  
+- **Languages:** Java, Python, JavaScript, HTML, CSS, OCaml
+- **Tools & Frameworks:** React, Node.js, Pandas
+- **Interests:** Web Development, Data Science, AI/ML
+
+---
+
+### 🔭 What's next for me
+
+I'm always looking for opportunities to learn and collaborate on new projects. My current focus is on expanding my knowledge in machine learning algorithms and building my full-stack development skills.
+
+---
+
+### 📬 Let's connect!
+
+- [LinkedIn](https://www.linkedin.com/in/zurabi-kochiashvili/)
+
 
